@@ -7,7 +7,7 @@ What things you need to install:
 - [Maven](https://maven.apache.org/install.html)
 
 Running on local machine
-  1. Open the project using any IDE (Eclipse, IDEA, etc)
+  1. Open the project using any IDE (Eclipse, Intellij IDEA, etc)
   2. Download sources Maven and update the project
   3. Running the project using command "mvn clean test" from the IDE terminal
 
