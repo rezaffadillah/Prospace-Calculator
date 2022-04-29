@@ -13,6 +13,6 @@ Running on local machine
 
 Report
 
-You can check the report in file://Prospace Test/Prospace-Calculator/report/cucumber-html-reports/overview-features.html
+You can check the report in [here](https://github.com/rezaffadillah/Prospace-Calculator/blob/master/report/cucumber-html-reports/overview-features.html)
 
 *2 Scenarios(Terms & Conditions and Privacy) will be failed due to navigating to the wrong page. The issues have been noted down in the Defect list sheet.
