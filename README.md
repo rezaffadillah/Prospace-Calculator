@@ -12,5 +12,5 @@ Running on local machine
   3. Running the project using command "mvn clean test" from the IDE terminal
 
 Report
-You can check the report file://Prospace Test/Prospace-Calculator/report/cucumber-html-reports/overview-features.html
+You can check the report [here](https://github.com/rezaffadillah/Prospace-Calculator/report/cucumber-html-reports/overview-features.html)
 *2 Scenarios(Terms & Conditions and Privacy) will be failed due to navigating to the wrong page. The issues have been noted down in the Defect list sheet.
