@@ -9,7 +9,6 @@ import org.testng.Assert;
 import pagesfactory.Calculator.CalculatorPageAction;
 import pagesfactory.Calculator.CalculatorPageValidation;
 import pagesfactory.PageFactoryManager;
-import pagesfactory.products.ProductsPageValidation;
 
 public class CalculatorSteps {
     private final CalculatorPageAction action;
